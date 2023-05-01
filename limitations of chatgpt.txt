@@ -1,0 +1,6 @@
+Limitations of ChatGpt
+
+1. Limited Knowledge ( use extension ) 
+2. Biased and Inaccuracies ( ask for different perspectives) 
+3. Limited Emotional Intelligence ( give context and mention the emotion) 
+4. Standard English
