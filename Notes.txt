@@ -2,3 +2,10 @@ Chat Gpt prompts need to be as specific as possible and must have context at all
 More detail input means a more customized output.
 
 ----------------------------------------------------------------------------
+Examples - Write a 700 to 1000 word email on why red is the best colour. The tone should be professional. 
+This email will be sent to my office team members which include my boss and my coworkers. 
+The reason for writing this mail is due to an ongoing friendly debate with the team, which has been going on since a week.
+Use this as reference - "Red is a powerful color that symbolizes assertive, daring, determined, energetic, powerful, enthusiastic, impulsive, exciting and aggressive.2 It is often used to inspire revolutions and war in movies that contain violence.3 Red stands for romantic love and its physical passion as well as violence, anger and aggression.
+It has a long wavelength which makes it one of the most visible colors which can have a positive impact on mood and behavior."
+Also, exphasize on how red is a colour which induces motivation in individuals. 
+(Optional - Write from perspective of Andrew Tate / Elon Musk / Donald Trump) ( or also multiple point of views to make sure it is unbiased )
