@@ -1,0 +1,4 @@
+Chat Gpt prompts need to be as specific as possible and must have context at all times. 
+More detail input means a more customized output.
+
+----------------------------------------------------------------------------
